@@ -1,5 +1,5 @@
 # godot-settings-menu
-A settings menu used to change display and audio settings within Godot.
+A settings menu used to change display and audio settings within Godot applications.
 
 #### Current Features:
   - Resolution Selection
