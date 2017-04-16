@@ -29,7 +29,6 @@ var ambientVolumeSlider
 func _ready():
 	# Called every time the node is added to the scene.
 	# Initialization here
-	masterVolumeSlider = get_node("SettingsMenuPanel/ScrollContainer/VBoxContainer/MasterVolumeSlider")
 	settingsMenuPanel = get_node("SettingsMenuPanel")
 	resolutionButton = get_node("SettingsMenuPanel/ScrollContainer/VBoxContainer/ResolutionButton")
 	fullscreenButton = get_node("SettingsMenuPanel/ScrollContainer/VBoxContainer/FullscreenButton")
