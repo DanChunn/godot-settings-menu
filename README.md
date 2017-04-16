@@ -10,8 +10,8 @@ A settings menu used to change display and audio settings within Godot.
   - Ambient Sounds Volume
   
 #### Primary Technology used in this application:
-* GDScript
-* Godot Engine
+  - GDScript
+  - Godot Engine
 
-# Notes:
+#### Notes:
   - Test sound files not included.
